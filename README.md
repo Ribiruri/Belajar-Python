@@ -5,5 +5,5 @@ Day 1 : perkenalan python(langsung dikasih final boss jir disuruh cari Euclidean
 day 2 : memperkenalkan kepada variabel dan function
 
 
-(i hope this is getting better ;3)<br><br>
+(i hope this is getting better ;3)<br>
 link that i use to practice python : https://github.com/Asabeneh/30-Days-Of-Python
