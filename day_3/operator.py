@@ -29,26 +29,13 @@ cac = pi * radius * radius
 ccc = 2 * pi * radius
 print (cac)
 print (ccc)
+b1 = len("python")
+b2 = len('dragon')
+print(b1 < b2)
 
-# Mendefinisikan komponen dari persamaan y = mx + c
-# Untuk persamaan y = 2x - 2
-m = 2  # Ini adalah slope (gradien)
-c = -2 # Ini adalah konstanta (y-intercept)
+#economic thing
+hours = int(input('enter the hours : '))
+rhours = int(input('Enter the rate per hours : '))
+crh = hours * rhours
 
-print(f"Persamaan: y = {m}x + ({c})")
-print("-" * 30)
-
-# 1. Menentukan Slope
-slope = m
-print(f"1. Slope (Kemiringan): {slope}")
-
-# 2. Menentukan Y-Intercept
-# Terjadi saat x = 0, sehingga y = m(0) + c
-y_intercept = c
-print(f"2. Y-Intercept: (0, {y_intercept})")
-
-# 3. Menghitung X-Intercept
-# Terjadi saat y = 0, maka: 0 = mx + c
-# Pindah ruas: -c = mx  =>  x = -c / m
-x_intercept = -c / m
-print(f"3. X-Intercept: ({x_intercept}, 0)")
+print (crh)
